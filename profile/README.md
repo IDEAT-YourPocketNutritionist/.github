@@ -67,8 +67,8 @@ To empower individuals worldwide to achieve their health goals through accessibl
 
 ## 🔗 Project Repositories
 
-- 🤖 [Machine Learning Repository](https://github.com/elluy-gabriel-p/Capstone_ML)
-- ☁️ [Cloud Computing Repository](http://github.com/ilhanmanzis/bangkit-app-project)
+- 🤖 [Machine Learning Repository](https://github.com/IDEAT-YourPocketNutritionist/Capstone_ML)
+- ☁️ [Cloud Computing Repository](https://github.com/IDEAT-YourPocketNutritionist/Capstone_CC)
 - 📱 [Mobile Development Repository](http://github.com/BillyPrestoneM/IDEAT-Capstone-Project) 
 
 ---
