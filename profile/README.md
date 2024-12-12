@@ -1,7 +1,7 @@
 # IDEAT: Your Pocket Nutritionist 📱🥗
 
 <p align="center">
-  <img src="https://github.com/IDEAT-YourPocketNutritionist/IDEAT-YourPocketNutritionist/.github/main/profile/IDEAT_Cover.png">
+  <img src="https://raw.githubusercontent.com/IDEAT-YourPocketNutritionist/.github/main/profile/IDEAT_Cover.png">
 </p>
 
 ---
